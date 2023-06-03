@@ -9,5 +9,6 @@ jobs:
   ci:
     name: Ghalactic
     uses: ghalactic/repos/.github/workflows/shared-ci-action.yml@main
+    secrets: inherit
     with:
       isScheduled: true
