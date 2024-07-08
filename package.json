@@ -16,7 +16,7 @@
     "esbuild": "^0.22.0",
     "prettier": "^3.3.2",
     "prettier-plugin-organize-imports": "^4.0.0",
-    "typescript": "^5.5.2",
+    "typescript": "^5.5.3",
     "vitest": "^1.6.0"
   }
 }
