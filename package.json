@@ -9,11 +9,11 @@
     "@actions/core": "^1.11.1"
   },
   "devDependencies": {
-    "@vitest/coverage-v8": "^4.0.14",
+    "@vitest/coverage-v8": "^4.0.15",
     "esbuild": "^0.27.0",
     "prettier": "^3.7.3",
     "prettier-plugin-organize-imports": "^4.3.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.14"
+    "vitest": "^4.0.15"
   }
 }
