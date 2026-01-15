@@ -6,7 +6,7 @@
     "npm": "^11.0.0"
   },
   "dependencies": {
-    "@actions/core": "^2.0.0"
+    "@actions/core": "^2.0.2"
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^4.0.16",
