@@ -1,5 +1,5 @@
 CI_VERIFY_GENERATED_FILES := true
-GENERATED_FILES += dist/main.js
+GENERATED_BYPRODUCT_FILES += dist/main.js
 JS_TSC_TYPECHECK_SKIP_LIB := true
 
 -include .makefiles/Makefile
